@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Tue May 30 11:30:42 2023
+# Process ID: 28328
+# Current directory: F:/Study/FPGA/Project/digit_reco7/digit_reco7.runs/frame_buffer_synth_1
+# Command line: vivado.exe -log frame_buffer.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source frame_buffer.tcl
+# Log file: F:/Study/FPGA/Project/digit_reco7/digit_reco7.runs/frame_buffer_synth_1/frame_buffer.vds
+# Journal file: F:/Study/FPGA/Project/digit_reco7/digit_reco7.runs/frame_buffer_synth_1\vivado.jou
+#-----------------------------------------------------------
+source frame_buffer.tcl -notrace

@@ -1,0 +1,2 @@
+line_shift_ram.vhd,vhdl,xil_defaultlib,../../../../digit_reco6.srcs/sources_1/ip/line_shift_ram/sim/line_shift_ram.vhd,
+glbl.v,Verilog,xil_defaultlib,glbl.v

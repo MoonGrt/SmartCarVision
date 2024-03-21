@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../digit_reco12.srcs/sources_1/ip/img_bit/sim/img_bit.v" \
+"../../../../digit_reco12.srcs/sources_1/new/VGA_Interface/VGA.v" \
+"../../../../digit_reco12.srcs/sources_1/new/digit_reco.v" \
+"../../../../digit_reco12.srcs/sources_1/new/square_frame.v" \
+"../../../../digit_reco12.srcs/sim_1/new/sim_digit_reco.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

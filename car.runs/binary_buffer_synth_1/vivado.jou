@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sun May 28 14:55:29 2023
+# Process ID: 23320
+# Current directory: F:/Study/FPGA/Project/digit_reco4/digit_reco4.runs/binary_buffer_synth_1
+# Command line: vivado.exe -log binary_buffer.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source binary_buffer.tcl
+# Log file: F:/Study/FPGA/Project/digit_reco4/digit_reco4.runs/binary_buffer_synth_1/binary_buffer.vds
+# Journal file: F:/Study/FPGA/Project/digit_reco4/digit_reco4.runs/binary_buffer_synth_1\vivado.jou
+#-----------------------------------------------------------
+source binary_buffer.tcl -notrace

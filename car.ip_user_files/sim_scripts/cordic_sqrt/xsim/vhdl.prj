@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../digit_reco11.srcs/sources_1/ip/cordic_sqrt/sim/cordic_sqrt.vhd" \
+
+nosort
