@@ -19,7 +19,6 @@
 	<br />
 	<a href="https://github.com/MoonGrt/SmartCarVision"><strong>Explore the docs »</strong></a>
 	<br />
-	<br />
 	<a href="https://github.com/MoonGrt/SmartCarVision">View Demo</a>
 	·
 	<a href="https://github.com/MoonGrt/SmartCarVision/issues">Report Bug</a>
